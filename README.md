@@ -16,9 +16,6 @@ A curated list of awesome mathematics resources. The credits for this curriculum
     * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
-    * [Foundations of Machine Learning](#foundations-of-machinelearning)
-        * [Math of Intelligence](#m-o-i)
-        * [Deep Learning](#deeplearning)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Set Theory](#set-theory)
         * [Logic](#logic)
@@ -120,10 +117,6 @@ A curated list of awesome mathematics resources. The credits for this curriculum
 
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 
-## Foundations of Machine Learning
-
-* [Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) - Siraj Raval
-* [Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&t=1s) - Siraj Raval
 
 
 ### Set Theory
